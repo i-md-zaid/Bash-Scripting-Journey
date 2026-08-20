@@ -1,4 +1,5 @@
 # Bash-Scripting-Journey
+#This is my shell-scripting journey
 
 
 Bash-Scripting-Journey 🚀
