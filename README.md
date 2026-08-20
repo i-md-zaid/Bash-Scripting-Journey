@@ -9,8 +9,4 @@ Beginner-friendly tutorials
 
 Real-world examples
 
-Hands-on exercises
-
-Mini projects to test your skills
-
 Whether you’re just starting out or brushing up on shell scripting, this journey will guide you through practical use cases.
