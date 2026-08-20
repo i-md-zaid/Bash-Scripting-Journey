@@ -1,3 +1,5 @@
+# Bash-Scripting-Journey
+
 
 Bash-Scripting-Journey 🚀
 A curated journey into the world of Bash scripting — from the basics to advanced automation. This repository is designed to help you learn, practice, and master Bash step by step with clear examples, exercises, and projects.
